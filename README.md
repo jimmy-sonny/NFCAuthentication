@@ -2,7 +2,7 @@
 
 Develop an authentication mechanism that uses an NFC card and a user personal PIN. A secure communication with a Web Service is used to check the provided credentials.
 
-2015, Project and Laboratory on Comunication System. Prof: Guido Albertengo
+2015, Project and Laboratory on Communication System. Prof: Guido Albertengo
 
 Authors: Vincenzo Costanzo, Antonio Leo, Andrea Marcelli, Sebastiano Miano
 
